@@ -1,6 +1,4 @@
 
-
-
 Resources:
   MyEC2Instance:
     Type: AWS::EC2::Instance
